@@ -131,6 +131,7 @@ p{
 }
 
 footer {
-    background-color: #391F14 !important;
-    color: white;
+    background-color: #fff!important;
+    color: black;
+    border-top: 1px solid grey;
 }
